@@ -1,0 +1,11 @@
+id: ec90bc2a817b4716ba983582fce578ed
+annotation_type: index
+revision: '00001'
+annotations:
+  e061c5123cb143b3b2435cab534f809e:
+    base: 2883.txt
+    Chapters:
+    - title: Pañcaka
+      span:
+        start: 0
+        end: 648

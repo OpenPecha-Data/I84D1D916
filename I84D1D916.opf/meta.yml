@@ -1,0 +1,16 @@
+id: I84D1D916
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-10 00:14:46.402983
+last_modified: 2023-02-10 00:14:46.403093
+source_metadata:
+  title: 'MSV 6,04: Pañcaka'
+  language: bo
+bases:
+  '2883':
+    base_file: 2883.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
